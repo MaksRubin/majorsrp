@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Strix RolePlay - Авторизация</title>
+<link href="../assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/style.bundle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="../css/style.css?v1">
+<link rel="stylesheet" href="../css/media.css">
+<link rel="shortcut icon" href="../images/favicon.png" type="image/png">
+<script src="../f0ad59efe3.js" crossorigin="anonymous"></script>
+<script src="../recaptcha/api.js" async="" defer=""></script>
+<link href="../aos%402.3.1/dist/aos.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../npm/slick-carousel%401.8.1/slick/slick.css">
+<link rel="stylesheet" href="../swiper%408.0.6/swiper-bundle.min.css">
+
+<script type="text/javascript">
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(71643259, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+<noscript><div><img src="../watch/71643259" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+<script async="" src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<div id="app_block">
+<header>
+<div class="container">
+<div class="row">
+<div class="col logo">
+<a href="../index.htm"><img src="../images/logo.png" width="150" alt=""></a>
+</div>
+<div class="col menu">
+<a href="#" class="mobile_nav">
+<span></span>
+</a>
+<ul class="nav_list">
+<a href="../index.htm">
+<li>Главная</li>
+</a>
+<a href="../index.htm#news_list">
+<li>Новости</li>
+</a>
+<a href="../index.htm#play">
+<li>Играть</li>
+</a>
+<a href="https://forum.strix-crmp.ru">
+<li>Форум</li>
+</a>
+<a href="../shop.html">
+<li>Магазин</li>
+</a>
+<a href="../map.html">
+<li>Карта</li>
+</a>
+<a href="login.html" class='active'>
+<li>Профиль</li>
+</a>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<section class="login_section">
+<div class="container">
+<div class="row d-flex justify-content-center">
+<div class="col-xl-12">
+<div class="title">
+<div class="info">
+Авторизация
+<div class="line"></div>
+</div>
+</div>
+</div>
+<div class="col-xl-6">
+<div class="login_block" data-aos="flip-up">
+<div class="form_wrap">
+
+<form action="https://strix-crmp.ru/action/login" method='POST' v-on:submit.prevent="onSubmit">
+<input type="hidden" name="_token" value="D6NwcqvU6DB66uwjqYWwWmQ5rq0srRazkiALR5lq">
+<div class="input_form">
+<div class="label">Никнейм</div>
+<input type="text" name="name" placeholder="Ваш никнейм">
+</div>
+<div class="input_form">
+<div class="label">Пароль</div>
+<input type="password" name="password" placeholder="Ваш пароль">
+</div>
+<div class="actions">
+<button type="submit" class="button">Войти</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col">
+<div class="copy">
+2021 © <span> STRIX ROLEPLAY</span> / Все права защищены
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="../npm/slick-carousel%401.8.1/slick/slick.min.js"></script>
+<script src="../swiper%408.0.6/swiper-bundle.min.js"></script>
+<script src="../js/bootstrap-notify.min.js" type="text/javascript"></script>
+<script src="../aos%402.3.1/dist/aos.js"></script>
+<script src="../npm/vue/dist/vue.js"></script>
+<script src="../js/main.js?v2"></script>
+<script src="../npm/popper.js%401.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="../bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="../bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script>
+    AOS.init({
+        disable: 'mobile',
+        duration: 400,
+        once: false,
+        anchorPlacement: 'bottom',
+    });
+
+</script>
+<script type="text/javascript" src="../js/api/openapi.js?167"></script>
+
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+    VK.Widgets.CommunityMessages("vk_community_messages", 169183111, {tooltipButtonText: "Тех. поддержка"});
+</script>
+<script>
+		SendNotify('Авторизация в личном кабинете','Пройдите процесс авторизации','info');
+	</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6de674cc09a221bd',m:'JjXPXPzJkdttZ3ZGDDejvkw1WpnrBPXc9qaxD9tUGmw-1645011155-0-AVYCRF66D4DNvLzGLxjYetbpH03rS9cBmj3a2NoviPSJ/fWV8Ja2UJ+2yCvxEpI4OeQyUlbiEizCKFFn/CG/UcHorbkVpq2c4hurHsSRwrvjP0pnPHbg+NdySh0ZeAIaIw==',s:[0x9a3ef57bd7,0x587854e6de],u:'/cdn-cgi/challenge-platform/h/b'}})();</script><script defer="" src="../beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6de674cc09a221bd","version":"2021.12.0","r":1,"token":"a903f9d6688a435cb5732f595ddc3d3a","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
