@@ -1,0 +1,527 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Strix RolePlay - Магазин</title>
+<link href="assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css">
+<link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="css/style.css?v1">
+<link rel="stylesheet" href="css/media.css">
+<link rel="shortcut icon" href="images/favicon.png" type="image/png">
+<script src="f0ad59efe3.js" crossorigin="anonymous"></script>
+<script src="recaptcha/api.js" async="" defer=""></script>
+<link href="aos%402.3.1/dist/aos.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="npm/slick-carousel%401.8.1/slick/slick.css">
+<link rel="stylesheet" href="swiper%408.0.6/swiper-bundle.min.css">
+
+<script type="text/javascript">
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(71643259, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+<noscript><div><img src="watch/71643259" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+<script async="" src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<div id="app_block">
+<header>
+<div class="container">
+<div class="row">
+<div class="col logo">
+<a href="index.htm"><img src="images/logo.png" width="150" alt=""></a>
+</div>
+<div class="col menu">
+<a href="#" class="mobile_nav">
+<span></span>
+</a>
+<ul class="nav_list">
+<a href="index.htm">
+<li>Главная</li>
+</a>
+<a href="index.htm#news_list">
+<li>Новости</li>
+</a>
+<a href="index.htm#play">
+<li>Играть</li>
+</a>
+<a href="https://forum.strix-crmp.ru">
+<li>Форум</li>
+</a>
+<a href="shop.html" class='active'>
+<li>Магазин</li>
+</a>
+<a href="map.html">
+<li>Карта</li>
+</a>
+<a href="profile/login.html">
+<li>Профиль</li>
+</a>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<section class="donate_section">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="title center" data-aos="flip-down">
+<div class="info">
+<div class="text">
+Прокачай <span>аккаунт</span>
+</div>
+</div>
+</div>
+<div class="vip_block" href="#vip_info">
+<div class="block_info">
+Прокачай аккаунт
+</div>
+</div>
+</div>
+<div class="col-xl-7 col-lg-7">
+<div class="title" data-aos="fade-up" data-aos-delay="200">
+<div class="info">
+Пополнение счета
+<div class="line"></div>
+</div>
+</div>
+<div class="donate_block" data-aos="flip-down" data-aos-delay="300">
+<form id='data-form' onsubmit='return false;'>
+<div class="form_wrap">
+<div class="input_form">
+<div class="label">Выберите сервер</div>
+<select class="change_server form-control" id="server" required="">
+<option selected="" value="">Выберите сервер</option>
+<option value="server-1">Сервер 1</option>
+</select>
+</div>
+<div class="input_form">
+<div class="label">Никнейм</div>
+<input type="text" class="form-control" id="nickname" name="account" placeholder="Имя_Фамилия" value="" required="">
+</div>
+<div class="input_form">
+<div class="label">Сумма</div>
+<input type="number" class="form-control" id="sum" name="sum" placeholder="Сумма (1 рубль = 1 кредит)" required="">
+</div>
+<div class="actions">
+<button id="donate_go" class="button">
+Пополнить
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="col-xl-5 col-lg-5 col-md-12 col-xs-12 col-12">
+<div class="title right" data-aos="fade-down" data-aos-delay="200">
+<div class="info">
+Популярные товары
+<div class="line"></div>
+</div>
+</div>
+<div class="product_list">
+<a href="#anchor_1">
+<div class="product_block" data-aos="zoom-in">
+<div class="title_product">Набор "Приезжий"</div>
+<div class="cost">99 руб.</div>
+</div>
+</a>
+<a href="#anchor_1">
+<div class="product_block" data-aos="zoom-in" data-aos-delay="200">
+<div class="title_product">Набор "Рыболов"</div>
+<div class="cost">249 руб.</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-xl-12">
+<div class="title center" data-aos="flip-down">
+<div class="info">
+<div class="text">
+<span>БЫСТРЫЙ СТАРТ!</span>
+</div>
+
+</div>
+</div>
+<div class="package_list">
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" id="anchor_1" data-aos="zoom-in" data-aos-delay="200">
+<img src="images/pack/1.png" alt="" class="bg">
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">141 руб</div>
+<div class="cost_value">99 руб.</div>
+</div>
+<button class="buy" @click="buyPackage(1)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Приезжий</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 30.000 рублей</div>
+<div class="line_info"><span>-</span> Водительские права</div>
+<div class="line_info"><span>-</span> Fiat 500</div>
+<div class="line_info"><span>-</span> Клетчатая сумка</div>
+<div class="line_info color"><span>-</span> Кэшбэк 5%</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" data-aos="zoom-in" data-aos-delay="400">
+<img src="images/pack/2.png" alt="" class="bg">
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">355 руб</div>
+<div class="cost_value">249 руб.</div>
+</div>
+<button class="buy" @click="buyPackage(2)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Рыболов</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 80.000 рублей</div>
+ <div class="line_info"><span>-</span> Водительские права</div>
+<div class="line_info"><span>-</span> ВАЗ 4x4</div>
+<div class="line_info"><span>-</span> Одежда для рыбалки</div>
+<div class="line_info"><span>-</span> Рюкзак Dakine Campus</div>
+<div class="line_info color"><span>-</span> Кэшбэк 10%</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" data-aos="zoom-in" data-aos-delay="600">
+<img src="images/pack/3.png" alt="" class="bg">
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">784 руб</div>
+<div class="cost_value">549 руб.</div>
+</div>
+<button class="buy" @click="buyPackage(3)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Успешный</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 300.000 рублей</div>
+<div class="line_info"><span>-</span> Водительские права</div>
+<div class="line_info"><span>-</span> BMW E34</div>
+<div class="line_info"><span>-</span> Донат скин</div>
+<div class="line_info"><span>-</span> Военный билет</div>
+<div class="line_info"><span>-</span> Рюкзак Calvin Klein</div>
+<div class="line_info color" id="anchor_2"><span>-</span> Кэшбэк 20%</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-12">
+<div class="title center" data-aos="flip-down">
+<div class="info">
+<div class="text">
+<span>ЭЛИТНЫЕ</span> НАБОРЫ
+</div>
+
+</div>
+</div>
+<div class="package_list">
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" id="anchor_1" data-aos="zoom-in" data-aos-delay="200">
+<img src="images/pack/9.png" alt="" class="bg">
+<div class="bonus_pack">
+Секретный приз! Осталось <b style="margin-left: 3px"> 3 шт.</b>
+</div>
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">1499 руб</div>
+<div class="cost_value">1199 руб.</div>
+</div>
+ <button class="buy" @click="buyPackage(9)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Суетной</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 500.000 рублей</div>
+<div class="line_info"><span>-</span> BMW M5 E60</div>
+<div class="line_info"><span>-</span> Набор всех лицензий</div>
+<div class="line_info color"><span>-</span> Уникальный скин</div>
+<div class="line_info color"><span>-</span> Уникальная рамка</div>
+<div class="line_info"><span>-</span> Рюкзак</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" data-aos="zoom-in" data-aos-delay="400">
+<img src="images/pack/10.png" alt="" class="bg">
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">1699 руб</div>
+<div class="cost_value">1399 руб.</div>
+</div>
+<button class="buy" @click="buyPackage(10)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Опасный</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 750.000 рублей</div>
+<div class="line_info"><span>-</span> Mercedes-Benz G500 AMG</div>
+<div class="line_info"><span>-</span> Набор всех лицензий</div>
+<div class="line_info color"><span>-</span> Рецепт на Desert Eagle</div>
+<div class="line_info color"><span>-</span> Уникальный скин</div>
+<div class="line_info color"><span>-</span> Уникальная рамка</div>
+<div class="line_info"><span>-</span> Рюкзак</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6">
+<div class="pack_block pack_1" data-aos="zoom-in" data-aos-delay="400">
+<img src="images/pack/11.png" alt="" class="bg">
+<div class="bonus_pack">
+Секретный приз! Осталось <b style="margin-left: 3px"> 3 шт.</b>
+</div>
+<div class="buy_footer">
+<div class="cost">
+<div class="sale">2299 руб</div>
+<div class="cost_value">1999 руб.</div>
+</div>
+<button class="buy" @click="buyPackage(11)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+<div class="info">
+<div class="name_pack">
+Набор <span>Бандит</span>
+</div>
+<div class="desc">
+<div class="line_info"><span>-</span> 1.000.000 рублей</div>
+<div class="line_info"><span>-</span> BMW X5</div>
+<div class="line_info"><span>-</span> Набор всех лицензий</div>
+<div class="line_info"><span>-</span> Набор всех рецептов</div>
+<div class="line_info"><span>-</span> Навыки на Desert Eagle, M4</div>
+<div class="line_info color"><span>-</span> Уникальный скин</div>
+<div class="line_info color"><span>-</span> VIP на 7 дней</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-12" id="vip_info">
+<div class="title center" data-aos="flip-down">
+<div class="info">
+<div class="text">
+Прокачай <span>аккаунт</span>
+</div>
+</div>
+</div>
+<div class="vip_block_info">
+<img src="images/vip.png" alt="" class="vip_bg">
+<div class="col-xl-12">
+<div class="title_vip" data-aos="fade-up-left" data-aos-delay="200">
+Возможности VIP аккаунта
+<div class="line"></div>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 ">
+<div class="block_info" data-aos="zoom-in" data-aos-delay="100">
+Полное отсутствие эффекта зависимости
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="200">
+Возможность иметь 4 автомобиля
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="300">
+Возможность загрузить сразу 2 автомобиля
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="400">
+Возможность самостоятельно покинуть любую фракцию (/leave), не распространяется на
+лидеров, которые возглавляют фракции
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="500">
+Увеличенное ограничение на передачу игровой валюты до 50,000 рублей (/pay) за один раз
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="600">
+Возможность писать в чат VIP игроков с помощью команды (/v)
+</div>
+</div>
+<div class="col-xl-4 col-lg-4">
+<div class="block_info" data-aos="zoom-in" data-aos-delay="100">
+Возможность самостоятельно собрать оружие, при условии наличия необходимых материалов
+(/makegun)
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="200">
+Возможность кражи боеприпасов со склада Армии
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="300">
+Возможность переносить целых 600 пт и 60 кг. металла
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="400">
+Каждый PayDay игрок получает два (Х2)EXP, вместо одного
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="500">
+Распространяется скидка в размере 10% при оплате личного имущества
+</div>
+</div>
+<div class="col-xl-4 col-lg-4">
+<div class="block_info" data-aos="zoom-in" data-aos-delay="100">
+Курс лечения в больнице ускорен в 2 раза
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="200">
+Присутствует возможность единоразово сменить ник на бесплатной основе
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="300">
+Скорость прокачки навыков оружия увеличена в 2 раза
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="400">
+Возможность спавниться на месте выхода
+</div>
+<div class="block_info" data-aos="zoom-in" data-aos-delay="500">
+Распространяется скидка в размере 10% на всех АЗС при заправке транспортного средства
+</div>
+</div>
+<div class="col-xl-12">
+<div class="title_vip mt" data-aos="fade-up-left" data-aos-delay="300">
+Цены на VIP<div class="line"></div>
+</div>
+</div>
+<div class="col-xl-6 col-lg-6">
+<div class="buy_vip" data-aos="fade-down-left" data-aos-delay="600">
+<div class="info">
+<div class="name_pack">
+<span>на 7 дней</span>
+</div>
+<div class="cost">
+<div class="sale">214 руб</div>
+<div class="cost_value">149 руб.</div>
+<div class="per_hour">0.9 руб в час</div>
+</div>
+</div>
+<button class="buy" @click="buyPackage(7)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+</div>
+<div class="col-xl-6 col-lg-6">
+<div class="buy_vip" data-aos="fade-down-left" data-aos-delay="1000">
+<div class="info">
+<div class="name_pack">
+<span>на 1 месяц</span>
+</div>
+<div class="cost">
+<div class="sale">571 руб</div>
+<div class="cost_value">399 руб.</div>
+<div class="per_hour">0.5 руб в час</div>
+</div>
+</div>
+<button class="buy" @click="buyPackage(8)">
+<img src="images/pack/cart.png" alt=""> Купить
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="modal fade" id="policyModal" tabindex="-1" role="dialog" aria-labelledby="confirmPolicyLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="confirmPolicyLabel">Подтвердите действие</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="system">
+<table>
+<tr>
+<td>
+<label>
+<input type="radio" name="system" value="anypay" checked="">
+<img src="images/payok.png">
+</label>
+</td>
+</tr><tr>
+</tr></table>
+</div>
+<div class="modal-body">
+Осуществляя покупку, Вы принимаете публичную <a href="ofert.pdf" style="color: #007bff">оферту</a>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Отменить покупку</button>
+<button id="buyAction" type="button" class="btn btn-primary">Продолжить покупку</button>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col">
+<div class="copy">
+2021 © <span> STRIX ROLEPLAY</span> / Все права защищены
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="npm/slick-carousel%401.8.1/slick/slick.min.js"></script>
+<script src="swiper%408.0.6/swiper-bundle.min.js"></script>
+<script src="js/bootstrap-notify.min.js" type="text/javascript"></script>
+<script src="aos%402.3.1/dist/aos.js"></script>
+<script src="npm/vue/dist/vue.js"></script>
+<script src="js/main.js?v2"></script>
+<script src="npm/popper.js%401.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script>
+    AOS.init({
+        disable: 'mobile',
+        duration: 400,
+        once: false,
+        anchorPlacement: 'bottom',
+    });
+
+</script>
+<script type="text/javascript" src="js/api/openapi.js?167"></script>
+
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+    VK.Widgets.CommunityMessages("vk_community_messages", 169183111, {tooltipButtonText: "Тех. поддержка"});
+</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6de674be5bcc21bd',m:'UjcA.xq2eJzdxkK0FCSuuPtS6aWrYr.aZRFjxMef8_8-1645011154-0-AbUKXsqnRzzQg+ZKChKRT96c8tdqr8j6LW0OwrFqa0LEI99HUPkWpvIAY9kd1yrvhQQ9+6EcYF7rT0oMdOJKVaB1igtWcw+VbgWyzWv2FvZ9f/UEpdy//FD9HNmtu6OuJw==',s:[0x7486080568,0x4f528174e8],u:'/cdn-cgi/challenge-platform/h/b'}})();</script><script defer="" src="beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6de674be5bcc21bd","version":"2021.12.0","r":1,"token":"a903f9d6688a435cb5732f595ddc3d3a","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

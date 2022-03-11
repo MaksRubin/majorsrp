@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Strix RolePlay - Регистрация</title>
+<link href="assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css">
+<link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="css/style.css?v1">
+<link rel="stylesheet" href="css/media.css">
+<link rel="shortcut icon" href="images/favicon.png" type="image/png">
+<script src="f0ad59efe3.js" crossorigin="anonymous"></script>
+<script src="recaptcha/api.js" async="" defer=""></script>
+<link href="aos%402.3.1/dist/aos.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="npm/slick-carousel%401.8.1/slick/slick.css">
+<link rel="stylesheet" href="swiper%408.0.6/swiper-bundle.min.css">
+
+<script type="text/javascript">
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(71643259, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+<noscript><div><img src="watch/71643259" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+<script async="" src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<div id="app_block">
+<header>
+<div class="container">
+<div class="row">
+<div class="col logo">
+<a href="index.htm"><img src="images/logo.png" width="150" alt=""></a>
+</div>
+<div class="col menu">
+<a href="#" class="mobile_nav">
+<span></span>
+</a>
+<ul class="nav_list">
+<a href="index.htm">
+<li>Главная</li>
+</a>
+<a href="index.htm#news_list">
+<li>Новости</li>
+</a>
+<a href="index.htm#play">
+<li>Играть</li>
+</a>
+<a href="https://forum.strix-crmp.ru">
+<li>Форум</li>
+</a>
+<a href="shop.html">
+<li>Магазин</li>
+</a>
+<a href="map.html">
+<li>Карта</li>
+</a>
+<a href="profile/login.html">
+<li>Профиль</li>
+</a>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<section class="login_section">
+<div class="container">
+<div class="row d-flex justify-content-center">
+<div class="col-xl-12">
+<div class="title">
+<div class="info">Онлайн регистрация прямо на сайте<h5>Зарегистрируйся на сервере одним из первых!</h5>
+<div class="line"></div>
+</div>
+</div>
+</div>
+<div class="col-xl-6">
+<div class="login_block" data-aos="flip-up">
+<div class="form_wrap">
+<form action="https://strix-crmp.ru/action/register" method='POST' v-on:submit.prevent="onSubmit">
+<input type="hidden" name="_token" value="D6NwcqvU6DB66uwjqYWwWmQ5rq0srRazkiALR5lq">
+<div class="input_form">
+<div class="label">Укажите никнейм для Вашего аккаунта</div>
+<input type="text" name="login" placeholder="Ваш никнейм" required="">
+</div>
+<div class="input_form">
+<div class="label">Укажите пароль для аккаунта</div>
+<input type="password" name="password" placeholder="Ваш пароль" required="">
+</div>
+<div class="input_form">
+<div class="label">Выберите пол персонажа</div>
+<select name="sex" required="">
+<option selected="" disabled="" value="">Ваш пол</option>
+<option value="1">Мужской</option>
+<option value="0">Женский</option>
+</select>
+</div>
+<div class="input_form">
+<div class="label">Укажите e-mail</div>
+<input type="text" name="email" placeholder="Ваша-почта@домен.ru" required="">
+</div>
+<div class="input_form">
+<div class="label">Укажите реферала, пригласившего Вас на сервер</div>
+<input type="text" name="referal" placeholder="Никнейм друга">
+</div>
+<div class="actions">
+<div data-sitekey="6Lea9YQaAAAAAMJFCHufeoawts5_1RkAMKg6WbHm" class="g-recaptcha"></div>
+</div>
+<div class="actions">
+<button type="submit" class="button">Регистрация</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col">
+<div class="copy">
+2021 © <span> STRIX ROLEPLAY</span> / Все права защищены
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="npm/slick-carousel%401.8.1/slick/slick.min.js"></script>
+<script src="swiper%408.0.6/swiper-bundle.min.js"></script>
+<script src="js/bootstrap-notify.min.js" type="text/javascript"></script>
+<script src="aos%402.3.1/dist/aos.js"></script>
+<script src="npm/vue/dist/vue.js"></script>
+<script src="js/main.js?v2"></script>
+<script src="npm/popper.js%401.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script>
+    AOS.init({
+        disable: 'mobile',
+        duration: 400,
+        once: false,
+        anchorPlacement: 'bottom',
+    });
+
+</script>
+<script type="text/javascript" src="js/api/openapi.js?167"></script>
+
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+    VK.Widgets.CommunityMessages("vk_community_messages", 169183111, {tooltipButtonText: "Тех. поддержка"});
+</script>
+<script>
+		SendNotify('Регистрация на сервере','Пройдите процесс регистрации первее других!','info');
+	</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6de674ce9fc821bd',m:'_s5fsrSbW7.MV2fQgM6p7.6Y8_eNfqYd_nQA6vWOQvs-1645011156-0-AWLD2bXQlhHmMy4EHGoILIzP1pUVjGrx+x1QfU0aWlouBJqNAtKgaXAhgIMpOz5dWT7cx/PCB7CL5LcOBgWdJNXkmEWWF9yWjyg7x21yVAcYQBDx4AVoMWQJNBgWDt0vRw==',s:[0x58bd31c9ff,0x0ede4d2c71],u:'/cdn-cgi/challenge-platform/h/b'}})();</script><script defer="" src="beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6de674ce9fc821bd","version":"2021.12.0","r":1,"token":"a903f9d6688a435cb5732f595ddc3d3a","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

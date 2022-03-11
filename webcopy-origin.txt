@@ -1,0 +1,684 @@
+Uri: http://static.abcvg.com/uploads/posts/2015-07/1438248864_60e667cb.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\uploads\posts\2015-07\1438248864_60e667cb.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/vue/dist/vue.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\npm\vue\dist\vue.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/f0ad59efe3.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\f0ad59efe3.js
+Content Type: text/javascript
+
+Uri: https://mc.yandex.ru/watch/71643259
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\watch\71643259
+Content Type: image/gif
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\bootstrap\4.4.1\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\beacon.min.js\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://strix-crmp.ru/
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\index.htm
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/assets/css/style.bundle.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\css\style.bundle.css
+Content Type: text/css
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/@fortawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\@fortawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon2/Flaticon2.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon2\Flaticon2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon2/Flaticon2.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon2\Flaticon2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon2/Flaticon2.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon2\Flaticon2.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon2/Flaticon2.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon2\Flaticon2.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/flaticon2/Flaticon2.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\flaticon2\Flaticon2.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.eot??v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.eot?v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.svg?v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.ttf?v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.woff2?v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome.woff2
+Content Type: font/woff2
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/line-awesome/line-awesome.woff?v=1.1.
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\line-awesome\line-awesome.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/socicon/socicon.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\socicon\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/socicon/socicon.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\socicon\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/socicon/socicon.svg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\socicon\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/socicon/socicon.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\socicon\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/socicon/socicon.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\socicon\socicon.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/summernote/summernote.eot?1d9aeaaff0a8939558a45be6cd52cd4c
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\summernote\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/summernote/summernote.ttf?1d9aeaaff0a8939558a45be6cd52cd4c
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\summernote\summernote.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/assets/plugins/global/fonts/summernote/summernote.woff?1d9aeaaff0a8939558a45be6cd52cd4c
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\fonts\summernote\summernote.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/assets/plugins/global/images/owl.carousel/owl.video.play.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\images\owl.carousel\owl.video.play.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/assets/plugins/global/plugins.bundle.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\assets\plugins\global\plugins.bundle.css
+Content Type: text/css
+
+Uri: https://strix-crmp.ru/css/media.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\css\media.css
+Content Type: text/css
+
+Uri: https://strix-crmp.ru/css/style.css?v1
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\css\style.css
+Content Type: text/css
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Black.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Black.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Black.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Black.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Black.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Black.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BlackItalic.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BlackItalic.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BlackItalic.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BlackItalic.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BlackItalic.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Bold.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Bold.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Bold.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Bold.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Italic.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Italic.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Italic.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Italic.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Italic.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Light.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Light.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Light.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Light.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Light.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Light.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-LightItalic.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-LightItalic.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Medium.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Medium.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Medium.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-Medium.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-Medium.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-MediumItalic.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-MediumItalic.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamPro.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamPro.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Bold.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Bold.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Bold.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Bold.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Bold.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Medium.eot
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Medium.eot?
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Medium.ttf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/GothamProNarrow-Medium.woff
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\GothamProNarrow-Medium.woff
+Content Type: font/woff
+
+Uri: https://strix-crmp.ru/fonts/GothamPro/stylesheet.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\fonts\GothamPro\stylesheet.css
+Content Type: text/css
+
+Uri: https://strix-crmp.ru/images/arrow_news.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\arrow_news.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/arrow_play.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\arrow_play.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/bg_donate.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\bg_donate.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/bg_intro.jpg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\bg_intro.jpg
+Content Type: image/jpeg
+
+Uri: https://strix-crmp.ru/images/bg_site.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\bg_site.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/cdn.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\cdn.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/discord.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\discord.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/favicon.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\favicon.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/google_disk.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\google_disk.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/icon_download.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\icon_download.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/icon_game.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\icon_game.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/icon_plus.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\icon_plus.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/logo.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\logo.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/map.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\map.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/1.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\1.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/10.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\10.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/11.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\11.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/12.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\12.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/13.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\13.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/2.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\2.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/3.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\3.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/5.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\5.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/6.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\6.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/8.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\8.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/9.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\9.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/h_f.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\h_f.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/maps/h_o.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\maps\h_o.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/1.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\1.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/10.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\10.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/11.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\11.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/2.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\2.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/3.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\3.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/9.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\9.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pack/cart.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pack\cart.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/pattern_intro.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\pattern_intro.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/payok.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\payok.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/picture_intro.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\picture_intro.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/vip.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\vip.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/vip_header.jpg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\vip_header.jpg
+Content Type: image/jpeg
+
+Uri: https://strix-crmp.ru/images/vk1.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\vk1.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/vk2.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\vk2.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/images/woman.jpg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\woman.jpg
+Content Type: image/jpeg
+
+Uri: https://strix-crmp.ru/images/yandex_disk.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\images\yandex_disk.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/js/bootstrap-notify.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\js\bootstrap-notify.min.js
+Content Type: application/javascript
+
+Uri: https://strix-crmp.ru/js/main.js?v2
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://strix-crmp.ru/map
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\map.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/news/1
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\news\1.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/news/2
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\news\2.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/news/3
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\news\3.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/ofert.pdf
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\ofert.pdf
+Content Type: application/pdf
+
+Uri: https://strix-crmp.ru/profile/login
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\profile\login.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/register
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\register.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/shop
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\shop.html
+Content Type: text/html
+
+Uri: https://strix-crmp.ru/uploads/dUnjQr4ijemRyzqgLv1yLm1JRJqBSQjjFJvRKzcz.jpg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\uploads\dUnjQr4ijemRyzqgLv1yLm1JRJqBSQjjFJvRKzcz.jpg
+Content Type: image/jpeg
+
+Uri: https://strix-crmp.ru/uploads/gdRF0ND5m0KKEvj0ZSekkfgTRDCbw2HqJNm0Hpsy.png
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\uploads\gdRF0ND5m0KKEvj0ZSekkfgTRDCbw2HqJNm0Hpsy.png
+Content Type: image/png
+
+Uri: https://strix-crmp.ru/uploads/wzINgfbfdEBwXbzDD2syXWHZNg2m4Jtpq4AjIlp2.jpg
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\uploads\wzINgfbfdEBwXbzDD2syXWHZNg2m4Jtpq4AjIlp2.jpg
+Content Type: image/jpeg
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/swiper@8.0.6/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\swiper@8.0.6\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@8.0.6/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\swiper@8.0.6\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://vk.com/js/api/openapi.js?167
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\js\api\openapi.js
+Content Type: application/x-javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\strix-crmp.ru\recaptcha\api.js
+Content Type: text/javascript
+
